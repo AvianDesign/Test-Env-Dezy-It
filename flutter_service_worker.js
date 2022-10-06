@@ -8,7 +8,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"assets/AssetManifest.json": "b70c7c6e070f980beabb2a6f40dc5920",
+"assets/AssetManifest.json": "baefb8e605db8c8d670d569d1d3a4b99",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/assets/icons/ICO%2520Prototype.svg": "6552428b404b76a3da2a4cd2b98caa7a",
 "assets/assets/icons/ICO%2520Home.png": "e32bdbc23cf7854893765eb421e9ef0f",
@@ -21,8 +21,10 @@ const RESOURCES = {
 "assets/assets/icons/ICO%2520Back.svg": "cead9a2f3f9a264a263e2bdab939e7cc",
 "assets/assets/icons/ICO%2520Reitration.svg": "5dc40ae3193b7a37cbdd3cb4b6d607d6",
 "assets/assets/icons/Rectangle%25201818.svg": "cf8339c24ffe576f1d1a48023a1410a5",
+"assets/assets/icons/ICO%2520Google.svg": "3a44b93540c1a65f49720638c70b5c29",
 "assets/assets/icons/videoBackG.svg": "f72c71dc4b364da559c1c24f971b67b5",
 "assets/assets/icons/ICO%2520Empathize.svg": "0db305efca2075a1ccf4c82452a82d0e",
+"assets/assets/icons/ICO%2520Profile.svg": "604b28f70d2e4d1798771860599c92d2",
 "assets/assets/icons/Monitor.svg": "1108e68b82759f5289abca6d5b6e9b3d",
 "assets/assets/svg/circle2_2.svg": "20cf8470e7b867de60f9865d08a5bfc2",
 "assets/assets/svg/circle1.svg": "119fd3dbe47b60a73c79b062ed04debd",
@@ -61,10 +63,10 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "manifest.json": "b3a9d9c851ed8c12008d37859288189e",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
-"index.html": "818f782799832a567671551924538a3b",
-"/": "818f782799832a567671551924538a3b",
+"index.html": "e5477c8fffded1cb2662fcb73cfdef2f",
+"/": "e5477c8fffded1cb2662fcb73cfdef2f",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "7fb6a45d16d54dfbbb2b173017c56bbe"
+"main.dart.js": "4fdbfbd7a15c7ddfb71b596ffb29d6f5"
 };
 
 // The application shell files that are downloaded before a service worker can
