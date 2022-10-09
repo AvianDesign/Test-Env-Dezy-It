@@ -57,9 +57,14 @@ const RESOURCES = {
 "assets/shaders/ink_sparkle.frag": "0d0f951c66a1b2338d19003f85555792",
 "assets/NOTICES": "d9541d9cb832548cad3e1a7311cc1ff6",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "manifest.json": "b3a9d9c851ed8c12008d37859288189e",
-"index.html": "2bee56c3b6a85cc21d96236900ff4ca7",
-"/": "2bee56c3b6a85cc21d96236900ff4ca7",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"index.html": "9ddbdf6a751b7f6dbee8392b108bc6fb",
+"/": "9ddbdf6a751b7f6dbee8392b108bc6fb",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "main.dart.js": "40980b66cc1dd62d33618cda833d2661"
 };
