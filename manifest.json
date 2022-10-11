@@ -1,11 +1,11 @@
 {
-    "name": "dezy_it_flutter_local",
-    "short_name": "dezy_it_flutter_local",
+    "name": "dezyit",
+    "short_name": "dezyit",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Dezy it web and mobile application",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
